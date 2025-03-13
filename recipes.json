@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Quinoa Salad",
+    "ingredients": ["quinoa", "cherry tomatoes", "cucumber", "lemon juice", "olive oil"],
+    "instructions": [
+      "Cook quinoa according to package instructions and let it cool.",
+      "Chop cherry tomatoes and cucumber into small pieces.",
+      "In a large bowl, mix quinoa, tomatoes, and cucumber.",
+      "Drizzle with lemon juice and olive oil, then toss well.",
+      "Serve chilled or at room temperature."
+    ],
+    "restrictions": ["vegan", "gluten-free", "dairy-free"]
+  },
+  {
+    "name": "Grilled Chicken with Vegetables",
+    "ingredients": ["chicken breast", "zucchini", "bell peppers", "olive oil", "garlic"],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Season chicken with salt, pepper, and minced garlic.",
+      "Slice zucchini and bell peppers into strips.",
+      "Brush vegetables with olive oil and grill alongside the chicken for 6-8 minutes per side.",
+      "Serve hot with a side of grilled vegetables."
+    ],
+    "restrictions": ["gluten-free", "dairy-free", "low-carb"]
+  },
+  {
+    "name": "Lentil Soup",
+    "ingredients": ["lentils", "carrots", "celery", "tomatoes", "garlic"],
+    "instructions": [
+      "Rinse lentils thoroughly under running water.",
+      "In a large pot, sauté chopped carrots, celery, and garlic for 5 minutes.",
+      "Add tomatoes and lentils, then pour in enough water to cover.",
+      "Bring to a boil, then reduce heat and simmer for 25-30 minutes until lentils are tender.",
+      "Season to taste and serve warm."
+    ],
+    "restrictions": ["vegan", "gluten-free", "dairy-free"]
+  },
+  {
+    "name": "Cheesy Pasta",
+    "ingredients": ["pasta", "cheddar cheese", "milk", "butter"],
+    "instructions": [
+      "Cook pasta according to package instructions and drain.",
+      "In a saucepan, melt butter over low heat, then add milk and shredded cheddar cheese.",
+      "Stir continuously until cheese is melted and the sauce is smooth.",
+      "Mix the cooked pasta with the cheese sauce.",
+      "Serve warm and enjoy!"
+    ],
+    "restrictions": ["vegetarian"]
+  },
+  {
+    "name": "Tofu Stir-Fry",
+    "ingredients": ["tofu", "broccoli", "soy sauce", "ginger", "sesame oil"],
+    "instructions": [
+      "Press tofu to remove excess moisture and cut into cubes.",
+      "Heat sesame oil in a pan and add tofu, cooking until golden brown.",
+      "Add chopped broccoli, grated ginger, and a splash of soy sauce.",
+      "Stir-fry for 5-7 minutes until broccoli is tender-crisp.",
+      "Serve hot over rice or noodles."
+    ],
+    "restrictions": ["vegan", "dairy-free"]
+  }
+]
