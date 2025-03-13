@@ -22,7 +22,7 @@ FoodRx is a **simple recipe generator** that retrieves recipes based on dietary 
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/agentic-ai-recipe-generator.git
+git clone https://github.com/varshney00/FoodRx.git
 cd FoodRx
 ```
 
