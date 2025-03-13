@@ -54,7 +54,7 @@ streamlit run frontend/ui.py
 
 Example:
 ```sh
-curl http://127.0.0.1:8000/recipes/?diet=gluten-free
+curl -X GET "http://127.0.0.1:8000/recipes/?diet=vegan" -H "accept: application/json"
 ```
 
 
